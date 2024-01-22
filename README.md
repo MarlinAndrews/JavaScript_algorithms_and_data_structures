@@ -1,2 +1,2 @@
-# JavaScript_algorithms_and_data_structures
+# java-script-algorithms-and-data-structures
 A place for javascript projects
